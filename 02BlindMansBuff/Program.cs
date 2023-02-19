@@ -26,7 +26,7 @@ for (int row = 0; row < N; row++)
 //CounOponents
 int AllOponents = 0;
 
-//Random rnd = new Random();
+
 int PlayerRows = 0;
 int PlayerCols = 0;
 
@@ -70,24 +70,11 @@ while ((command= Console.ReadLine())!= "Finish")
         break;
     }
 
-    //if (TouchesOp == AllOponents)
-    //{
-    //    break;
-    //}
+   
     if (command == "down")
     {
        
             PlayerRows++;
-        
-        //int Currentpos = ++PlayerRows;
-        //if (Currentpos >=0 && Currentpos <N)
-        //{
-            
-        //}6
-        //else
-        //{
-        //    PlayerRows--;
-        //}
        
     }
     if (command == "up")
@@ -101,14 +88,11 @@ while ((command= Console.ReadLine())!= "Finish")
     {
        
             PlayerCols--;
-        
 
-        //PlayerCols--;
     }
     if (command == "right")
     {
-        // int Currentpos = ++PlayerCols;
-
+      
         PlayerCols++;
 
     }
@@ -123,7 +107,6 @@ while ((command= Console.ReadLine())!= "Finish")
 
         if (PlayGround[PlayerRows, PlayerCols] == "P")//Kletkata poziciqta
         {
-
           
            // PlayGround[PlayerRowPrevios, PlayerColsPrevios] = "-";
             Moves++;
@@ -156,10 +139,8 @@ bool isVAlidMove(string[,] matrix, int playerrow, int playercol)
 }
 
 
-
 Console.WriteLine("Game over!");
 Console.WriteLine($"Touched opponents: {TouchesOp} Moves made: {Moves}");
-//Console.WriteLine();
 
 
 
