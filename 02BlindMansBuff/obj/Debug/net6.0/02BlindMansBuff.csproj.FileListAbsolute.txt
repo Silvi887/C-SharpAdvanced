@@ -1,0 +1,15 @@
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\bin\Debug\net6.0\02BlindMansBuff.exe
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\bin\Debug\net6.0\02BlindMansBuff.deps.json
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\bin\Debug\net6.0\02BlindMansBuff.runtimeconfig.json
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\bin\Debug\net6.0\02BlindMansBuff.dll
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\bin\Debug\net6.0\02BlindMansBuff.pdb
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.dll
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\refint\02BlindMansBuff.dll
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.pdb
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\02BlindMansBuff.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\CSharpAdvanced1802\02BlindMansBuff\obj\Debug\net6.0\ref\02BlindMansBuff.dll
