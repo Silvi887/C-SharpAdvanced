@@ -28,8 +28,10 @@ int Remain = 0;
 
 while (textilesCol.Count >0  && medicamentsCol.Count>0)
 {
-    int MedicamnetEl = medicamentsCol.Peek() + Remain;
-    Result = textilesCol.Peek() + MedicamnetEl;
+   // int MedicamnetEl = medicamentsCol.Peek() + Remain;
+   // Result = textilesCol.Peek() + MedicamnetEl;
+
+    Result = textilesCol.Peek() + medicamentsCol.Peek();
     if (textilesCol.Count == 0 || medicamentsCol.Count == 0)
     {
         break;
@@ -73,11 +75,12 @@ while (textilesCol.Count >0  && medicamentsCol.Count>0)
 
                 int currentTexile = textilesCol.Dequeue(); //Remove
                 int CurrentMed = medicamentsCol.Pop();
+                    CurrentMed = medicamentsCol.Pop();
 
                 Remain = Result - HealingItems["MedKit"];//For med
 
-                //int Newmedicament = CurrentMed + Remain;
-                // medicamentsCol.Push(Newmedicament);
+                int Newmedicament = CurrentMed + Remain;
+                 medicamentsCol.Push(Newmedicament);
 
             }
             else
